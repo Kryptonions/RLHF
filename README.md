@@ -99,11 +99,6 @@ Llama-2-7B
 ./scripts/run_all_7B_dpo.sh
 ```
 
-🚀 Baichuan2-SFT
-
-```
-./scripts/run_all_7b_sft_baichuan2.sh
-```
 
 🚀 Unsloth-SFT
 
